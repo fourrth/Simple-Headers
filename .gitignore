@@ -1,0 +1,14 @@
+*
+!.git*
+!CMakeLists.txt
+
+!src
+!src/**
+
+!cmake
+!cmake/**
+
+!examples
+!examples/**
+
+!readme.md
